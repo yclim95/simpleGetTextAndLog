@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My First Android App</string>
+    <string name="i_love_android">I love Android!</string>
+</resources>
